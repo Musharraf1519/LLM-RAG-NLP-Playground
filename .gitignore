@@ -1,17 +1,22 @@
 # Ignore Python compiled files
 __pycache__/
 *.pyc
-
 # Ignore virtual environments
 venv/
 .env
-
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
-
 # Ignore log files
 *.log
-
 # Ignore IDE files (VSCode)
 .vscode/
+*.py[cod]
+*$py.class
+# PyCharm
+.idea/
+# Any other local config files
+config.json
+*.sqlite3
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
