@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+transformers
+torch
+pinecone
+PyPDF2
+python-docx
