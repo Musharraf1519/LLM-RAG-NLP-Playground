@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 # Ignore virtual environments
+myenv/
 venv/
 .env
 # Ignore OS-specific files
